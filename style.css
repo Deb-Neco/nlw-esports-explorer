@@ -17,6 +17,16 @@ body * {
   font-family: 'inter',sans-serif;
   line-height: 160%;
 }
+header{
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
+img{
+  border-radius: 100px;
+  width: 180px;
+  padding-bottom: 3px;
+}
 
 main{
   max-width: 580px;
