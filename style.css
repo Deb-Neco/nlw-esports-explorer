@@ -87,6 +87,12 @@ section ul{
   border-radius: 50%;
   width: 70px;
 }
+.channel-list img:hover{
+  transform: scale(1.2);
+}
 .game-list img:hover {
  transform: scale(1.2);
+}
+.my-networks svg:hover{
+  transform: scale(1.2);
 }
